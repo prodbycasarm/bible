@@ -1,5 +1,5 @@
 <?php
-    $host = "TEST_HOST";
+    $host = "YOUR_HOST";
     $db   = "DATABASE_NAME";
     $user = "USERNAME";
     $pass = "PASSWORD";
