@@ -1,5 +1,5 @@
 <?php
-    $host = "TEST";
+    $host = "emote";
     $db   = "DATABASE_NAME";
     $user = "USERNAME";
     $pass = "PASSWORD";
