@@ -1,4 +1,5 @@
 # Bible Web App
+View project here : https://bible.casarm.com/
 
 I was tired of the complex Bible apps out there, many of which are filled with ads, so I decided to create my own simple and distraction-free Bible app.
 
