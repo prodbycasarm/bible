@@ -15,5 +15,5 @@ node_modules
 .DS_Store
 .manifest.json
 # DATABASE
-.db.php
+db.php
 
